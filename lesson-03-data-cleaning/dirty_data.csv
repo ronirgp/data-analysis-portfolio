@@ -1,0 +1,8 @@
+Name,Sales,Month
+Alice,200,Jan
+bob,350,Jan
+,150,Jan
+Alice,UNKNOWN,Feb
+Bob,300,Feb
+Charlie,,Feb
+Charlie,250,Feb
