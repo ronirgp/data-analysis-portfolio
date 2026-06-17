@@ -1,0 +1,16 @@
+Date,Salesperson,Region,Product,Units,Price
+2024-01-05,Alice,North,Laptop,3,1200
+2024-01-10,Bob,South,Phone,5,800
+2024-01-15,Charlie,North,Tablet,4,500
+2024-02-05,Alice,South,Laptop,2,1200
+2024-02-10,Bob,North,Phone,6,800
+2024-02-15,Charlie,South,Tablet,3,500
+2024-03-05,Alice,North,Phone,4,800
+2024-03-10,Bob,South,Laptop,3,1200
+2024-03-15,Charlie,North,Tablet,5,500
+2024-04-05,Alice,South,Laptop,4,1200
+2024-04-10,Bob,North,Phone,7,800
+2024-04-15,Charlie,South,Tablet,2,500
+2024-05-05,Alice,North,Laptop,5,1200
+2024-05-10,Bob,South,Phone,4,800
+2024-05-15,Charlie,North,Tablet,6,500
