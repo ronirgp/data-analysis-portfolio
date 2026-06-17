@@ -1,0 +1,13 @@
+Date,Product,Category,Units_Sold,Price,Region
+2024-01-05,Laptop,Electronics,3,1200,North
+2024-01-10,Phone,Electronics,5,800,South
+2024-01-15,Bread,Food,20,2,North
+2024-02-05,Laptop,Electronics,2,1200,South
+2024-02-10,Milk,Food,30,1,North
+2024-02-15,Phone,Electronics,4,800,North
+2024-03-05,Bread,Food,25,2,South
+2024-03-10,Laptop,Electronics,5,1200,North
+2024-03-15,Milk,Food,40,1,South
+2024-04-05,Phone,Electronics,6,800,South
+2024-04-10,Bread,Food,15,2,North
+2024-04-15,Laptop,Electronics,3,1200,South
