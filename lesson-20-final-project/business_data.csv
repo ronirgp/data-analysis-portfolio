@@ -1,0 +1,16 @@
+Date,Region,Product,Units,Price,Marketing_Spend
+2024-01-01,North,Laptop,5,1200,500
+2024-01-08,South,Phone,12,800,300
+2024-01-15,North,Tablet,8,500,200
+2024-01-22,South,Laptop,4,1200,450
+2024-01-29,North,Phone,15,800,600
+2024-02-05,South,Tablet,10,500,250
+2024-02-12,North,Laptop,6,1200,550
+2024-02-19,South,Phone,18,800,700
+2024-02-26,North,Tablet,9,500,220
+2024-03-05,South,Laptop,7,1200,500
+2024-03-12,North,Phone,20,800,750
+2024-03-19,South,Tablet,11,500,260
+2024-04-02,North,Laptop,8,1200,600
+2024-04-09,South,Phone,22,800,800
+2024-04-16,North,Tablet,13,500,300
