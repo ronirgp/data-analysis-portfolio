@@ -1,0 +1,19 @@
+
+========================================
+       WEEKLY SALES REPORT
+       Generated: 2026-06-19
+========================================
+
+TOTAL REVENUE: $178,750
+TOTAL UNITS SOLD: 545
+TOP PRODUCT: Phone
+AVERAGE PRICE: $515.00
+
+--- PRODUCT BREAKDOWN ---
+Laptop          Units: 45    Revenue: $54,000
+Phone           Units: 120   Revenue: $96,000
+Tablet          Units: 30    Revenue: $15,000
+Headphones      Units: 200   Revenue: $10,000
+Mouse           Units: 150   Revenue: $3,750
+
+========================================
